@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 
 int main() {
-    std::cout << "new\n";
+    std::cout << "new" << std::endl;
     return 0;
 }
